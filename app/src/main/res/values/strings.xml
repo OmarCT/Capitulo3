@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Capitulo3</string>
+    <string name="tv_hello">Hello World!</string>
+    <string name="btn_aprietame">¡Aprietame Rejo!</string>
+</resources>
